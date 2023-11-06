@@ -1,4 +1,4 @@
-# specbee-demo
+# Specbee Assignment
 
 
 Admin Credentials:
